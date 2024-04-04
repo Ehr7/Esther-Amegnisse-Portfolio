@@ -36,6 +36,7 @@
 	"type": "module",
 	"dependencies": {
 		"@designbycode/tailwindcss-text-stroke": "^1.2.1",
-		"@fortawesome/fontawesome-free": "^6.5.1"
+		"@fortawesome/fontawesome-free": "^6.5.1",
+		"@sveltejs/adapter-vercel": "^5.2.0"
 	}
 }

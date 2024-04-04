@@ -99,7 +99,6 @@
 	  content: "Ce projet universitaire consiste à concevoir l'interface utilisateur d'un dashboard en utilisant l'auto-layout de Figma. L'objectif est de créer un design responsive et intuitif, adapté à divers usages. Les étudiants explorent les fonctionnalités d'auto-layout pour des composants UI flexibles, tout en intégrant une navigation aisée et des outils d'analyse visuelle. Ce travail pratique renforce les compétences en design UI/UX sur Figma.",
 	  techno : ["Figma"]
     }
-    // Ajoutez d'autres projets ici
   ];
 
   /**
@@ -149,7 +148,7 @@
 						stack.<br />
 						L'UX/UI m'intéresse aussi particulièrement car j'apprécie rendre les interfaces intuitives pour
 						les utilisateurs.<br />
-						Je crois fermement en la polyvalence et je suis déterminée à m'adapter à tous les défis pour
+						Je suis polyvalente et je suis déterminée à m'adapter à tous les défis pour
 						devenir une développeuse web compétente et flexible.
 					</p>
 				</div>

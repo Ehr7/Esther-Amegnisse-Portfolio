@@ -19,7 +19,7 @@
 
 </script>
 
-<div class="fixed top-0 left-0 p-10 bg-black/50 flex justify-center items-center h-full w-full">
+<div class="fixed top-5 left-0 p-10 bg-black/50 flex justify-center items-center h-full w-full">
 	<div
 		class="bg-white p-5 rounded-lg shadow-white text-black flex flex-col justify-center items-center w-max"
 	>
@@ -32,9 +32,9 @@
 				{/each}
 			</div>
 			<div class="flex flex-col justify-center items-center w-1/2">
-				<h3 class="text-2xl font-semibold">Détails du projets</h3>
+				<h3 class="text-2xl font-semibold">Détails du projet</h3>
 				<p class="p-3">{projectDetails.content}</p>
-				<h3 class="text-2xl font-semibold">Technologies utilisées :</h3>
+				<h3 class="text-2xl font-semibold">Outils/Technologies utilisées :</h3>
                 <div class="p-5">
 				{#each projectDetails.techno as techno}
                     <span class="text-white rounded-2xl text-sm font-bold p-3 m-2 bg-black w-fit">{techno}</span>
