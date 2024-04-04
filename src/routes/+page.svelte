@@ -122,7 +122,7 @@
 	<div class="min-h-screen flex justify-center items-center text-center z-0" id="accueil">
 		<div class="relative z-50">
 			<h1 class="text-7xl font-bold">
-				Salut <span class="text-blue-500 inline-block animate-bounce">🙋‍♀️</span> Je suis Esther
+				Salut <span class="text-blue-500 inline-block animate-bounce">👋</span> Je suis Esther
 			</h1>
 
 			<p
@@ -148,7 +148,7 @@
 						stack.<br />
 						L'UX/UI m'intéresse aussi particulièrement car j'apprécie rendre les interfaces intuitives pour
 						les utilisateurs.<br />
-						Je suis polyvalente et je suis déterminée à m'adapter à tous les défis pour
+						Je suis polyvalente et déterminée à m'adapter à tous les défis pour
 						devenir une développeuse web compétente et flexible.
 					</p>
 				</div>
