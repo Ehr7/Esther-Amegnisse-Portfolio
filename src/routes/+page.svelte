@@ -152,7 +152,7 @@
 						devenir une développeuse web compétente et flexible.
 					</p>
 				</div>
-				<a href="https://drive.google.com/file/d/1Mf4UN-HyQukJoiTdF82gCfA94_Oyqd2G/view?usp=sharing"><p class="text-2xl p-3 font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-blue-500">MON CV !</p></a>
+				<a href="https://drive.google.com/file/d/1MFg98YSmnXZ52dsPQLL6_Nqqdn9QtvP3/view?usp=sharing"><p class="text-2xl p-3 font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-blue-500">MON CV !</p></a>
 			</div>
 		</div>
 
